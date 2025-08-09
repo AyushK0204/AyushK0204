@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on a **Learning Management System (LMS)**
+- 🔭 I’m currently working on a **Compact AI Tools**
 - 🌱 Learning **Data Structures & Algorithms** and modern **Web Development Frameworks**
 - 💬 Ask me about: **JavaScript, React, Node.js, MongoDB, DSA, Java**
 - ⚡ Portfolio: [my-portfolio.vercel.app](https://my-portfolio-phi-ebon-21.vercel.app/)
